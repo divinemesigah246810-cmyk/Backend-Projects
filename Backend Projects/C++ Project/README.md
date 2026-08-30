@@ -23,7 +23,7 @@ Through this project, I practiced implementing calculations and developing
 program logic in C++.
 
 ## Technologies Used
-
+C++
 
 ### 2. Student Report Backend
 
